@@ -1,0 +1,213 @@
+.bgimg {
+  background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?size=626&ext=jpg&ga=GA1.2.323306874.1650956801");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 4px solid green;
+  margin: 0px auto;
+}
+
+body {
+  padding: 50px 0px;
+  border: 4px solid greenyellow;
+}
+
+.head {
+  display: inline-block;
+  display: flex;
+  padding-left: 30px;
+}
+
+.list1 {
+  border: 6px solid brown;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  width: 300px;
+  height: 100px;
+  border-radius: 25px;
+  padding-left: 20px;
+  word-spacing: 6px;
+  line-height: 14px;
+  position: absolute;
+}
+.para {
+  padding-left: 18px;
+}
+
+.list2 {
+  border: 6px solid brown;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  width: 300px;
+  height: 45px;
+  border-radius: 25px;
+  padding-left: 80px;
+  word-spacing: 6px;
+  position: relative;
+  left: 175px;
+  padding-top: 10px;
+  margin-top: 7px;
+}
+
+.list3 {
+  border: 6px solid brown;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  width: 300px;
+  height: 100px;
+  border-radius: 25px;
+  padding-left: 80px;
+  word-spacing: 6px;
+  position: relative;
+  left: 600px;
+  line-height: 10px;
+  padding-top: 5px;
+  margin-top: 7px;
+}
+
+.border {
+  color: red;
+}
+
+.container {
+  margin: 5 auto;
+  padding: 50px auto;
+  display: flex;
+  margin-top: 60px;
+}
+
+.circle {
+  border-radius: 50%;
+  height: 220px;
+  width: 310px;
+  text-align: center;
+  text-decoration: underline;
+  padding: 50px 0px;
+  font-size: 18px;
+  background-color: rgb(21, 192, 192);
+  border: 6px solid gray;
+  margin: 100 50px;
+}
+
+.squer {
+  margin: 0px 50px;
+  text-align: center;
+  color: brown;
+  padding: 10px 20px;
+  border: 7px dashed brown;
+  border-width: 50%;
+  background-color: white;
+}
+
+.line {
+  width: 295px;
+}
+
+.line1 {
+  width: 305px;
+}
+
+.line3 {
+  width: 100%;
+}
+
+.menu {
+  text-align: center;
+  height: 50px;
+  width: 500px;
+  background-color: black;
+  color: white;
+  padding: 10px 0;
+  border: 6px solid brown;
+  border-radius: 25px;
+  font-size: 22px;
+  margin-left: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.Main_box {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.box1 {
+  width: 350px;
+  height: 270px;
+  background-color: aqua;
+  border: 3px solid green;
+  margin: 25px;
+  border-radius: 35px;
+  color: blue;
+  font-size: 18px;
+}
+
+.box2 {
+  width: 350px;
+  height: 280px;
+  background-color: aqua;
+  border: 3px solid green;
+  margin: 25px;
+  border-radius: 35px;
+  color: blue;
+  font-size: 18px;
+}
+
+.box3 {
+  width: 350px;
+  height: 280px;
+  background-color: aqua;
+  border: 3px solid green;
+  margin: 25px;
+  border-radius: 35px;
+  color: blue;
+  font-size: 18px;
+}
+
+.box4 {
+  width: 350px;
+  height: 270px;
+  background-color: aqua;
+  border: 3px solid green;
+  margin: 25px;
+  border-radius: 35px;
+  color: blue;
+  font-size: 18px;
+}
+
+.box5 {
+  width: 350px;
+  height: 280px;
+  background-color: aqua;
+  border: 3px solid green;
+  margin: 25px;
+  border-radius: 35px;
+  color: blue;
+  font-size: 18px;
+}
+
+.box6 {
+  width: 320px;
+  height: 320px;
+  background-color: aqua;
+  border: 3px solid green;
+  margin: 25px;
+  border-radius: 35px;
+  font-size: 18px;
+  padding-left: 50px;
+  color: blue;
+}
+
+.line6 {
+  width: 100%;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+li {
+  font-size: 20px;
+  padding-left: 90px;
+}
